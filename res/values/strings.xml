@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<string name="app_name">Navecita</string>
+	
+	<string name="menu_msg">By Efrel</string>
+    <string name="menu_start">Start</string>
+    <string name="menu_stop">Stop</string>
+    <string name="menu_pause">Pause</string>
+    <string name="menu_resume">Resume</string>
+    
+    <string name="mode_ready">Navecita\nPress Menu To Play</string>
+	<string name="mode_pause">Paused\nPress Menu To Resume</string>
+	<string name="mode_lose">Game Over\nPress Menu To Play</string>
+	<string name="mode_win_prefix">Success!\n</string> 
+	<string name="mode_win_suffix">Press Menu to Play Again</string> 
+	
+	<string name="message_stopped">Stopped</string>
+
+</resources>
